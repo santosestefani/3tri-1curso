@@ -1,34 +1,34 @@
 criaCartao(
-    'Programação',
-    'O que é gato?',
-    'O Python é uma linguagem de programação'
+    'Filme',
+    'Qual filme animado segue as aventuras de duas irmãs, uma com poderes de gelo?',
+    'Frozen'
 )
 
 criaCartao(
-    'Geografia',
-    'Qual a capital da França?',
-    'A capital da França é Paris'
+    'Filme',
+    'Qual ator protagoniza o filme Missão Impossível?',
+    'Tom Cruise'
 )
 
 criaCartao(
-    'Programação',
-    'O que é uma função?',
-    'Uma função é um bloco de código que executa alguma tarefa'
+    'Filme',
+    'Em qual ano foi lançado o primeiro filme da série Star Wars?',
+    '1977'
 )
 
 criaCartao(
-    'Lingua inglesa',
-    'Como se diz oi em Inglês?',
-    'Oi em ingles é HI (RAI)'
+    'Filme',
+    'Qual o nome do vilão de 101 Dálmatas?',
+    'Cruela'
 )
 criaCartao(
-    'Programação',
-    'O que é uma função?',
-    'Uma função é um bloco de código que executa alguma tarefa'
+    'Filme',
+    'Em qual filme da Pixar os personagens são carros falantes?',
+    'Carros'
 )
 
 criaCartao(
-    'Lingua inglesa',
-    'Como se diz oi em Inglês?',
-    'Oi em ingles é HI (RAI)'
+    'Filme',
+    'Quem é o diretor do filme " O poderoso chefão "',
+    'Francis Ford Coppola'
 )
